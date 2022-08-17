@@ -1,6 +1,6 @@
 I added:
--Cards
--Custom hex color
--An image
+- Cards
+- Custom hex color
+- An image
 - text
 - added links
